@@ -9,7 +9,7 @@ object Build extends Build {
     name := "scala-benchmarking-template",
     organization := "com.example",
     version := "1.0.0-SNAPSHOT",
-    scalaVersion := "2.9.2",
+    scalaVersion := "2.10.0",
 
     // dependencies
     libraryDependencies ++= Seq(
